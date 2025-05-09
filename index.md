@@ -333,3 +333,7 @@ WordPress, concreteCMS,
 - 技術: WordPress, HTML/CSS, JavaScript
 - 担当: システムエンジニア
 - 工程: 要求定義, 基本設計, 詳細設計, プログラミング, テスト, 開発管理, 運用保守
+
+---
+
+© 2025 Kimiya Sato. All rights reserved.  

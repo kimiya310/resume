@@ -41,6 +41,9 @@ title: "kimiya310/resume"
 - [GitHub](https://github.com/kimiya310)
 - [X](https://x.com/kimiya)
 
+## 研究活動・研究業績
+- [新規事業創出・アントレプレナーシップ研究部門 2024年度研究活動報告書](https://www.sus.ac.jp/wp-content/uploads/2025/07/2024_06_activity_bizlaunch.pdf)
+
 ## 職務経歴
 ### 担当役職
 - 取締役: 3

@@ -66,6 +66,7 @@ CTOや開発責任者として、プロダクト開発を進めながら、開�
 技術顧問としての相談対応や助言を通じて、システム開発を支援します。
 
 ## 研究活動・研究業績
+- [新規事業創出・アントレプレナーシップ研究部門 2025年度研究活動報告書](https://www.sus.ac.jp/wp-content/uploads/2026/09/2025_06_activity_bizlaunch.pdf)
 - [新規事業創出・アントレプレナーシップ研究部門 2024年度研究活動報告書](https://www.sus.ac.jp/wp-content/uploads/2025/07/2024_06_activity_bizlaunch.pdf)
 
 ## 経験技術

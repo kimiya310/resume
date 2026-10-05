@@ -26,26 +26,26 @@ WebサービスやSaaS領域を中心に、エンジニア、CTO、COOとして�
 その後、株式会社イノーバ取締役CTOを経て、株式会社スタートアップテクノロジーに取締役COOとして参画。
 
 ### 2018-2020
-[合同会社フレイズ](https://www.phrase-inc.com/)を立ち上げ、代表に就任。  
+[合同会社フレイズ](https://www.phrase-inc.com/){:target="_blank" rel="noopener noreferrer"}を立ち上げ、代表に就任。\
 新規事業の立ち上げや新製品開発を中心にシステム開発とコンサルティングを行う。
 
 ### 2020-
-[合同会社フレイズ](https://www.phrase-inc.com/)を[株式会社フレイズ](https://www.phrase-inc.com/)へ組織変更し代表取締役に就任（現任）
+[合同会社フレイズ](https://www.phrase-inc.com/){:target="_blank" rel="noopener noreferrer"}を[株式会社フレイズ](https://www.phrase-inc.com/){:target="_blank" rel="noopener noreferrer"}へ組織変更し代表取締役に就任（現任）
 
 ### 2024-
-[公立諏訪東京理科大学](https://www.sus.ac.jp/) [地域連携研究開発機構](https://www.sus.ac.jp/academics/research/) 新規事業創出・アントレプレナーシップ研究部門 特任准教授（機構客員）（現任）
+[公立諏訪東京理科大学](https://www.sus.ac.jp/){:target="_blank" rel="noopener noreferrer"} [地域連携研究開発機構](https://www.sus.ac.jp/academics/research/){:target="_blank" rel="noopener noreferrer"} 新規事業創出・アントレプレナーシップ研究部門 特任准教授（機構客員）（現任）
 
 ### 2025-2026
-[株式会社U-ZERO](https://www.u-zero.com/) エンジニアリングアドバイザー（技術顧問）  
-[株式会社U-ZERO](https://www.u-zero.com/) CTO エンジニアリング本部 本部長
+[株式会社U-ZERO](https://www.u-zero.com/){:target="_blank" rel="noopener noreferrer"} エンジニアリングアドバイザー（技術顧問）\
+[株式会社U-ZERO](https://www.u-zero.com/){:target="_blank" rel="noopener noreferrer"} CTO エンジニアリング本部 本部長
 
 ## 連絡先, SNS
 
-- [お問い合わせフォーム](https://www.phrase-inc.com/contact/)
-- [LinkedIn](https://www.linkedin.com/in/kimiyasato/)
-- [Facebook](https://www.facebook.com/kimiya310/)
-- [GitHub](https://github.com/kimiya310)
-- [X](https://x.com/kimiya)
+- [お問い合わせフォーム](https://www.phrase-inc.com/contact/){:target="_blank" rel="noopener noreferrer"}
+- [LinkedIn](https://www.linkedin.com/in/kimiyasato/){:target="_blank" rel="noopener noreferrer"}
+- [Facebook](https://www.facebook.com/kimiya310/){:target="_blank" rel="noopener noreferrer"}
+- [GitHub](https://github.com/kimiya310){:target="_blank" rel="noopener noreferrer"}
+- [X](https://x.com/kimiya){:target="_blank" rel="noopener noreferrer"}
 
 ## 専門領域
 
@@ -66,8 +66,8 @@ CTOや開発責任者として、プロダクト開発を進めながら、開�
 技術顧問としての相談対応や助言を通じて、システム開発を支援します。
 
 ## 研究活動・研究業績
-- [新規事業創出・アントレプレナーシップ研究部門 2025年度研究活動報告書](https://www.sus.ac.jp/wp-content/uploads/2026/09/2025_06_activity_bizlaunch.pdf)
-- [新規事業創出・アントレプレナーシップ研究部門 2024年度研究活動報告書](https://www.sus.ac.jp/wp-content/uploads/2025/07/2024_06_activity_bizlaunch.pdf)
+- [新規事業創出・アントレプレナーシップ研究部門 2025年度研究活動報告書](https://www.sus.ac.jp/wp-content/uploads/2026/09/2025_06_activity_bizlaunch.pdf){:target="_blank" rel="noopener noreferrer"}
+- [新規事業創出・アントレプレナーシップ研究部門 2024年度研究活動報告書](https://www.sus.ac.jp/wp-content/uploads/2025/07/2024_06_activity_bizlaunch.pdf){:target="_blank" rel="noopener noreferrer"}
 
 ## 経験技術
 

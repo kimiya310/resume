@@ -4,6 +4,12 @@ title: "kimiya310/resume"
 
 # 佐藤公哉 - Kimiya Sato
 
+## プロフィール
+
+WebサービスやSaaS領域を中心に、エンジニア、CTO、COOとしてプロダクト開発、組織運営、新規事業立ち上げに従事。
+現在は株式会社フレイズ代表取締役として、システム開発や技術支援に加え、新規事業の企画、サービス設計、マーケティングに取り組んでいる。
+公立諏訪東京理科大学 特任准教授（機構客員）。
+
 ## 経歴
 ### 2004-2008
 拓殖大学商学部商学科卒業後、主にフリーランスとして、Webシステム開発や運用保守に携わる。
@@ -41,46 +47,42 @@ title: "kimiya310/resume"
 - [GitHub](https://github.com/kimiya310)
 - [X](https://x.com/kimiya)
 
+## 専門領域
+
+- 経営：代表取締役、取締役COOとしての経営、事業運営
+- CTO / 開発責任者：プロダクト開発の管理、エンジニアリング組織の運営
+- 新規事業開発：市場調査、競合調査、サービス設計、マーケティング、営業企画、提供オペレーションの構築
+- プロダクト開発：WebサービスやSaaSの要求定義から設計、開発、運用保守
+- 技術コンサルティング：技術顧問、システム開発支援
+
 ## 研究活動・研究業績
 - [新規事業創出・アントレプレナーシップ研究部門 2024年度研究活動報告書](https://www.sus.ac.jp/wp-content/uploads/2025/07/2024_06_activity_bizlaunch.pdf)
 
-## 職務経歴
-### 担当役職
-- 取締役: 3
-- CTO / 開発責任者: 11
+## 経験技術
 
-### 担当工程
-- 要求定義: 37
-- 基本設計: 36
-- 詳細設計: 41
-- プログラミング: 40
-- テスト: 45
-- 開発管理: 29
-- 運用保守: 24
-
-### 技術要素
-#### 言語
+これまでの案件で使用した技術を掲載しています。
+現在の利用頻度や習熟度を示す一覧ではありません。
+### 言語
 Ruby, HTML, CSS, JavaScript, PHP, Python, iOS/Objective-C, iOS/Swift, 
-<span style="color:#999">ASP.net, C#, C言語, Perl, Dart</span>
+ASP.net, C#, C言語, Perl, Dart
 
-#### フレームワーク
-Ruby on Rails, React, Next.js, Nuxt, <span style="color:#999">Anguler, Laravel, CakePHP, Ethna, Mojavi, Smarty, jQuery</span>
+### フレームワーク・ライブラリ
+Ruby on Rails, React, Next.js, Nuxt, Angular, Laravel, CakePHP, Ethna, Mojavi, Smarty, jQuery
 
-#### OS
-Ubuntu, AmazonLinux, FreeBSD, <span style="color:#999">CentOS, FedoraCore, RedHatLinux, SCLinux6, Windows</span>
+### OS
+Ubuntu, Amazon Linux, FreeBSD, CentOS, FedoraCore, RedHatLinux, SCLinux6, Windows
 
-#### DB
-PostgreSQL, MySQL, <span style="color:#999">Redis, Oracle, Filemaker</span>
+### データベース
+PostgreSQL, MySQL, Redis, Oracle, Filemaker
 
-#### Cloud
-AWS, GCP, Firebase, heroku, Cloudflare, 
-<span style="color:#999">Azure</span>
+### クラウド
+AWS, GCP, Firebase, Heroku, Cloudflare, Azure
 
-#### Tool
+### ツール
 WordPress, concreteCMS, 
-<span style="color:#999">JetAdmin, kintone</span>
+JetAdmin, kintone
 
-## 詳細
+## 全職務経歴
 ### 広告配信システム開発（2004年08月 ～ 2005年03月）
 - 技術: RedHatLinux9, PostgreSQL, PHP4, C言語
 - 担当: システムエンジニア
@@ -361,7 +363,7 @@ WordPress, concreteCMS,
 - 担当: CTO
 - 工程: 開発管理
 
-### IT統制・情報セキュリティ支援サービス 新規事業立ち上げ（2025年8月〜）
+### IT統制・情報セキュリティ支援サービス 新規事業立ち上げ（2026年9月〜）
 
 * 技術: -
 * 担当: 事業開発
@@ -370,4 +372,4 @@ WordPress, concreteCMS,
 
 ---
 
-© 2025 Kimiya Sato. All rights reserved.  
+© 2026 Kimiya Sato. All rights reserved.

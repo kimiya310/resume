@@ -26,11 +26,11 @@ WebサービスやSaaS領域を中心に、エンジニア、CTO、COOとして�
 その後、株式会社イノーバ取締役CTOを経て、株式会社スタートアップテクノロジーに取締役COOとして参画。
 
 ### 2018-2020
-[合同会社フレイズ](https://www.phrase-inc.com/){:target="_blank" rel="noopener noreferrer"}を立ち上げ、代表に就任。\
+[合同会社フレイズ](https://www.phrase-inc.com/){:target="_blank" rel="noopener"}を立ち上げ、代表に就任。\
 新規事業の立ち上げや新製品開発を中心にシステム開発とコンサルティングを行う。
 
 ### 2020-
-[合同会社フレイズ](https://www.phrase-inc.com/){:target="_blank" rel="noopener noreferrer"}を[株式会社フレイズ](https://www.phrase-inc.com/){:target="_blank" rel="noopener noreferrer"}へ組織変更し代表取締役に就任（現任）
+[合同会社フレイズ](https://www.phrase-inc.com/){:target="_blank" rel="noopener"}を[株式会社フレイズ](https://www.phrase-inc.com/){:target="_blank" rel="noopener"}へ組織変更し代表取締役に就任（現任）
 
 ### 2024-
 [公立諏訪東京理科大学](https://www.sus.ac.jp/){:target="_blank" rel="noopener noreferrer"} [地域連携研究開発機構](https://www.sus.ac.jp/academics/research/){:target="_blank" rel="noopener noreferrer"} 新規事業創出・アントレプレナーシップ研究部門 特任准教授（機構客員）（現任）
@@ -41,7 +41,7 @@ WebサービスやSaaS領域を中心に、エンジニア、CTO、COOとして�
 
 ## 連絡先, SNS
 
-- [お問い合わせフォーム](https://www.phrase-inc.com/contact/){:target="_blank" rel="noopener noreferrer"}
+- [お問い合わせフォーム](https://www.phrase-inc.com/contact/){:target="_blank" rel="noopener"}
 - [LinkedIn](https://www.linkedin.com/in/kimiyasato/){:target="_blank" rel="noopener noreferrer"}
 - [Facebook](https://www.facebook.com/kimiya310/){:target="_blank" rel="noopener noreferrer"}
 - [GitHub](https://github.com/kimiya310){:target="_blank" rel="noopener noreferrer"}
